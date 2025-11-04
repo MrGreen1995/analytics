@@ -1,0 +1,6 @@
+@UzEx.Analytics.Api_HostAddress = http://localhost:5151
+
+GET {{UzEx.Analytics.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
