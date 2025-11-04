@@ -1,0 +1,25 @@
+# .NET build files
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+*.csproj.user
+
+# Rider / VS Code / VS
+.idea/
+.vscode/
+.vs/
+*.code-workspace
+
+# Docker
+.containers/
+
+# Logs
+*.log
+
+# Others
+*.DS_Store
+*.swp
